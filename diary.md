@@ -224,3 +224,15 @@
 ## 自主学習
 - 環境構築 (docker環境インストール)
 - potfy追記
+
+
+# 2021/12/1
+# 当日対応したタスク
+・FB login
+・ngrok
+・DBテーブル追加、figma修正,フィードバック
+・posts 一覧ページ作成
+# 明日対応するタスク (週末は、来週のターゲット)
+・posts投稿機能(create,index,show,update,destroy)
+# 共有事項 (エラーや、その他、感じたこと、些細な進捗共有など)
+・fb loginが強制https化になっており、ngrokで一時的にwebに公開して確認する方法を学んだ
