@@ -232,7 +232,29 @@
 ・ngrok
 ・DBテーブル追加、figma修正,フィードバック
 ・posts 一覧ページ作成
-# 明日対応するタスク (週末は、来週のターゲット)
+## 明日対応するタスク (週末は、来週のターゲット)
+・posts投稿機能(create,index,show,update,destroy)
+## 共有事項 (エラーや、その他、感じたこと、些細な進捗共有など)
+・fb loginが強制https化になっており、ngrokで一時的にwebに公開して確認する方法を学んだ
+
+
+# 2021/12/2
+## 当日対応したタスク
+・ DB設計 ・DBレビュー頂いた ・DBmigration ・twitter login
+
+## 明日対応するタスク (週末は、来週のターゲット)
+・google login ・FB login ・posts 一覧ページ作成 ・posts投稿機能
+
+## 共有事項 (エラーや、その他、感じたこと、些細な進捗共有など)
+・gitのリモートレポジトリーの名前に{ }が入っており、pushできないエラーに詰まった ・上記のエラーの際にgit stashを覚えた ・想定していたよりDB設計、DBmigrationに時間を要した
+
+# 2021/12/3
+## 当日対応したタスク
+・FB login
+・ngrok
+・DBテーブル追加、figma修正,フィードバック
+・posts 一覧ページ作成
+## 明日対応するタスク (週末は、来週のターゲット)
 ・posts投稿機能(create,index,show,update,destroy)
 # 共有事項 (エラーや、その他、感じたこと、些細な進捗共有など)
 ・fb loginが強制https化になっており、ngrokで一時的にwebに公開して確認する方法を学んだ
