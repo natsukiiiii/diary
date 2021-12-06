@@ -258,3 +258,14 @@
 ・posts投稿機能(create,index,show,update,destroy)
 # 共有事項 (エラーや、その他、感じたこと、些細な進捗共有など)
 ・fb loginが強制https化になっており、ngrokで一時的にwebに公開して確認する方法を学んだ
+
+# 2021/12/6
+## 当日対応したタスク
+・profile　の information 情報の入力と取得
+・profile  の experience 情報の入力と取得
+## 明日対応するタスク (週末は、来週のターゲット)
+・profile  の education 情報の入力と取得
+・profile  の publicate 情報の入力と取得
+・profile  の socialevent 情報の入力と取得
+## 共有事項 (エラーや、その他、感じたこと、些細な進捗共有など)
+・コントローラーのupdate,showの処理で、laravelの流れを把握することが重要だと学んだ。ボタンを押して、ルートではどのコントローラーのアクションに飛び、そこで何の処理のしたいのかを整理して考えると、進みやすい。
