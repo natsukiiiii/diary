@@ -328,3 +328,34 @@ mvcの流れ、ルートに{$id}を渡すに関する不明点をララ帳や公
 モデルでDBのデータをビューに表示、保存等はできた。
 
 # 2021/12/9
+・プロフィール情報を一覧表示する画面
+　　・デザイン修正
+　　・DBからデータ取得
+　　・updateで情報更新する処理
+・profile画像投稿機能
+・profile  の experience 情報の入力と取得
+　・デザイン
+ 　・削除機能
+　・編集
+・profile  の education 情報の入力と取得
+　・デザイン
+ 　・削除機能
+　・編集
+・profile  の publicate 情報の入力と取得
+　・デザイン
+ 　・削除機能 （実装中）
+　・編集
+・profile  の socialevent
+　・デザイン
+ 　・削除機能
+　・編集
+・プロフィールの各ページへのリンク設定
+ 　・edit
+ 　・experience
+ 　・education
+ 　・publication
+ 　・socialevent
+明日はデザイン、残りの機能（検索、LP、フォロー画面）実装していきます。
+所感：
+redirect やcompact, formにどの詳細にいくのかを指定するためのex) $post->id 等の不明点があったが、やや使えるようになってきた。
+MVCはまだ混乱しがちな時がある。
