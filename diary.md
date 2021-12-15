@@ -444,3 +444,27 @@ BackEnd
 残りタスク所要時間/残時間　17/64h
 
 所感：質問と投稿のページを分ける実装が終了したので、次にトップページのナブバーに機能実装していきます。
+
+
+# 2021/12/15
+・edit, index ページ修正
+profile
+experience
+education　
+publication
+social event 25min
+・投稿ページ
+qiita, zennを参考にデザイン変更（現在作業中）
+残タスク
+UI/UX
+- TOPページ (デザイン編集 , LP追加 ) 2h
+ -検索枠の位置変更2h
+BackEnd
+-投稿、質問見た目figmaに寄せる(zen参考)3h
+- プロフィール、Qiita を参考 4h
+-LP figmaからhtmlに(figma to htmlを参考に) 。1h
+現在のアプリ：
+https://gyazo.com/b918c817c9b3e4ca25a6876ad35acfbb
+
+# 2021/12/16
+
