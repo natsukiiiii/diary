@@ -467,4 +467,23 @@ BackEnd
 https://gyazo.com/b918c817c9b3e4ca25a6876ad35acfbb
 
 # 2021/12/16
+投稿ページview
+qiita, zennを参考にデザイン変更
+画像表示、デフォルトの画像も表示 2h
+回答募集中のリンクを、質問・投稿あたりに追加
+プロフィール入力データ保持されてない
+投稿、質問見た目figmaに寄せる(zen参考)3h
+- プロフィール、Qiita を参考 4h
+ -検索枠の位置変更2h
+ログイン画面のデザイン修正　2h
+-regsiter page view 30min
+投稿ページ
+index
+posts , questions
+・view整え
+・検索バー
+
+# 2021/12/17
+
+
 
