@@ -514,7 +514,44 @@ https://pt-app1.herokuapp.com/questions/create
 ・heroku npm
 
 # 2021/12/21
+DONE
+投稿古い順になってるので、最新順
+https://pt-app1.herokuapp.com/posts
+マークダウン投稿ページにも反映する
+投稿ページ(送信されない)
+→jsのidがquestion分しかなかったことが原因
+https://pt-app1.herokuapp.com/posts/create
+投稿、初期値でスペースが入っている（マークダウン部分）
+https://pt-app1.herokuapp.com/questions/create
+参加学会、参加日カラム追加
+https://pt-app1.herokuapp.com/settings/socialevent
+culoudinary繋ぐ
+https://pt-app1.herokuapp.com/settings/profile/
+google login
+https://pt-app1.herokuapp.com/login
+line login（現在heroku環境のcallback指定中）
+https://pt-app1.herokuapp.com/login 
+
+残タスク
+更新後にセッション
+OGPの画像変更する。(canva)
+OGP文言変更
+他のページのOGP表示
+app view デザイン
+line login call back
+sp対応
+favicon
 
 
+# 2021/12/22
+DONE
+プロフィールが更新できない（参加学会)
+https://pt-app1.herokuapp.com/settings/socialevent?54
+プロフィールにログインユーザー以外の情報が表示される（現在作業中）
+https://pt-app1.herokuapp.com/users/
+line login
+https://pt-app1.herokuapp.com/login
 
+# 2021/12/23
+移動
 
