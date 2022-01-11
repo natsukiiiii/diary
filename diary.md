@@ -564,4 +564,12 @@ https://pt-app1.herokuapp.com/login
 競合はいないのか？
 競合はどんな施策してるのか。
 
+# 2022/1/11
+potfy環境構築
+snsログイン(callback url で404)
+cloudinary
+potfyコード理解とアプリ触り
+明日
+ snsログインのcallback部分進める
+
 
